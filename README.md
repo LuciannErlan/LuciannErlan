@@ -33,10 +33,10 @@ Análise de Dados, Comunidade DS
 
 ### Github Stats
 
-[<div align="center">
+<div align="center">
   <img src="https://raw.githubusercontent.com/LuciannErlan/LuciannErlan/stats-output/stats.svg" height="150" alt="stats graph"  />
   <img src="https://raw.githubusercontent.com/LuciannErlan/LuciannErlan/languages-output/languages.svg" height="150" alt="languages graph"  />
-</div>]
+</div>
 
 ###
 
