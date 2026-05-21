@@ -30,4 +30,12 @@ Análise de Dados, Comunidade DS
 
 ### Redes Sociais 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luciann-erl%C3%A3n/)
+
+### Github Stats
+<div align="center">
+  <img src="https://raw.githubusercontent.com/LuciannErlan/LuciannErlan/stats-output/stats.svg" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/LuciannErlan/LuciannErlan/languages-output/languages.svg" height="150" alt="languages graph"  />
+</div>
+
+###
   
